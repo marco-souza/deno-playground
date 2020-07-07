@@ -1,6 +1,6 @@
 # DOL cli
 
-Simple cli tool to give you the dollar exchange rates.
+Simple cli tool to give you exchange rates for dollar (and some other currencies).
 
 ## Usage
 
