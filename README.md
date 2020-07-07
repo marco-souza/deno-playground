@@ -1,4 +1,4 @@
-# DOL cli
+# Dol
 
 Simple cli tool to give you exchange rates for dollar (and some other currencies).
 
