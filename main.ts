@@ -21,7 +21,9 @@ async function main() {
 
     if (!rate) throw "output currency not found";
 
-    console.log(rate * quantity);
+    const result = (rate * quantity).toFixed(3);
+
+    console.log(result);
   }
 }
 
